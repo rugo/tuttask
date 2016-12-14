@@ -9,4 +9,4 @@ To use this in Berlyne, just do a:
 git clone https://github.com/rugo/tuttask.git
 ```
 
-in your Berlynes deployment path (```VAGR_DEPLOYMENT_PATH``` in **settings.py**).
+in your Berlyne deployment path (```VAGR_DEPLOYMENT_PATH``` in **settings.py**).
