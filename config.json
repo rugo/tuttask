@@ -1,0 +1,11 @@
+{
+ "category": "Web",
+ "desc": "<a href='http://{HOST}:{PORT_80}/'>This</a> service delivers letters. Deliver me the file <strong>/opt/flag.txt</strong>!<br><a href='{DL_source}'>Source</a>",
+ "ports": [{"guest": 80,
+ "desc": "Website",
+ "host": 0}],
+ "points": 50,
+ "downloads": { "source": "index.php" },
+ "tags": ["web", "PHP", "remote file inc"],
+ "name": "Tutorial Problem"
+}
