@@ -1,1 +1,1 @@
-This script gives you archived letters, just change the "fn" parameter to the letter you which to read.
+This script gives you archived letters, just change the "fn" parameter to the letter you wish to read.
